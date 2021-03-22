@@ -2077,14 +2077,14 @@ section
   color: #4c4c4c;
   text-align: center;
   font-size: 16px;
-  margin-left: 50px;
+  margin-left: 10px;
 }
 .select_center:focus{
   outline: 1px solid #14bdee;
 }
 .text_right{
   float: right;
-  margin-right: 170px;
+  margin-right: 180px;
 }
 .item_left{
 
