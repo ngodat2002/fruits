@@ -1664,7 +1664,7 @@ border-top: 2px;
   text-align: center;
   width: 500px;
   margin-top: 18px;
-  margin-left: 260px;
+  margin-left: 190px;
 
 }
 .row50 a:hover{
@@ -1677,7 +1677,7 @@ border-top: 2px;
   background: #f3f3f3;
   float: right;
   bottom:60px;
-  margin-right: 470px;
+  margin-right: 390px;
   margin-top: 5px;
 }
 .comment_input1{
@@ -1697,6 +1697,7 @@ border-top: 2px;
 }
 .iconcart{
   margin-top: 10px;
+  font-size: 18px;
 }
 .box{
 color: #555555;
@@ -1716,9 +1717,38 @@ color: #555555;
   padding-top: 93px;
   padding-bottom: 103px;
   height: 1100px;
+  margin-left: 80px;
 }
 .form-control
 {
   color: #db5246;
   height: 46px;
+}
+.to_card{
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  height: 45px;
+  padding:12px 0;
+  width: 200px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-top: 10px;
+  background-color: #14bdee;
+}
+.text_card:hover{
+  color: #ffffff;
+  font-size: 18px;
+}
+.bi-cart-plus{
+  color: #FFFFFF;
+}
+.text_span{
+  color: #FFFFFF;
+}
+.fill_text{
+  color: #0b080c;
+}
+.add_card{
+  margin-left: 500px;
+  margin-top: 20px;
 }
